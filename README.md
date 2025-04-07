@@ -1,1 +1,1 @@
-# get-beliv.github.io
+# https://beliv-supports-healthy-blood-sugar.vercel.app
