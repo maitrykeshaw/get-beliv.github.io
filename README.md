@@ -1,1 +1,1 @@
-# https://beliv-supports-healthy-blood-sugar.vercel.app
+# https://beliv-supports-healthy-blood-sugar.vercel.app/
